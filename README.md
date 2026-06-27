@@ -1,4 +1,4 @@
-# Numerical Analysis and Algorithmic Methods — Part 2
+# Numerical Analysis and Algorithmic Methods: Part 2
 
 This repository contains the second part of the laboratory notebook sequence, focusing on the direct, programmatic execution of core numerical analysis routines. The codebase transitions foundational mathematical concepts into fully automated, interactive Python scripts developed within Google Colab.
 
